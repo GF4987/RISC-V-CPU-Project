@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1781655027" />
+    <testcase name="random_write_read_test" classname="test_regfile" file="/Users/sarathivelmurugan/Desktop/RISCV_CPU/Module1_1b_RegFile/test_regfile.py" lineno="8" time="0.03903913497924805" sim_time_ns="10032.0" ratio_time="256972.90693896497" />
+  </testsuite>
+</testsuites>

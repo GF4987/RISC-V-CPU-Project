@@ -1,0 +1,12 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1781655600" />
+    <testcase name="add_test" classname="test_alu" file="/Users/sarathivelmurugan/Desktop/RISCV_CPU/Single_Cycle/Mod_1_1c_ALU/test_alu.py" lineno="5" time="0.009932994842529297" sim_time_ns="1001.0" ratio_time="100775.24612356584" />
+    <testcase name="default_test" classname="test_alu" file="/Users/sarathivelmurugan/Desktop/RISCV_CPU/Single_Cycle/Mod_1_1c_ALU/test_alu.py" lineno="21" time="0.0005450248718261719" sim_time_ns="1.0" ratio_time="1834.7786526684165">
+      <failure error_type="AttributeError" error_msg="alu contains no child object named src1" />
+    </testcase>
+    <testcase name="zero_test" classname="test_alu" file="/Users/sarathivelmurugan/Desktop/RISCV_CPU/Single_Cycle/Mod_1_1c_ALU/test_alu.py" lineno="34" time="0.00023889541625976562" sim_time_ns="1.0" ratio_time="4185.932135728543">
+      <failure error_type="AttributeError" error_msg="alu contains no child object named src1" />
+    </testcase>
+  </testsuite>
+</testsuites>
