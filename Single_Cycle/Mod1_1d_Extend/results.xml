@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1782014314" />
+    <testcase name="random_write_read_test" classname="test_signextend" file="/Users/sarathivelmurugan/Desktop/RISCV_CPU/Single_Cycle/Mod1_1d_Extend/test_signextend.py" lineno="7" time="0.002766847610473633" sim_time_ns="4.0" ratio_time="1445.6885825075399" />
+  </testsuite>
+</testsuites>

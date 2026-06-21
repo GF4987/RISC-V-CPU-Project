@@ -9,7 +9,7 @@ module signextend (
 
     always_comb begin
         case(imm_source)
-            1'b00: gathered_imm = raw_input[24:13];
+            2'b00: gathered_imm = raw_input[24:13];
             default: gathered_imm = 12'b0;
         endcase
     end
